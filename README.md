@@ -1,1 +1,2 @@
 # chat-app
+In this Project I create a responsive and visually appealing chat interface using React, MUI Components and Redux Toolkit. In this I create a message input field and a send button and functionality for Displaying chat messages in a scrollable list for this I Use Redux Toolkit to manage the chat state (messages, current user, etc.) and Implement basic chat functionality (send message, receive message).
